@@ -123,7 +123,38 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - 
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/598b4c02-6d6c-40d1-930f-337cfd853d1e"><br>
+
+***
+
+### 
+
+<ins></ins>
+
+- 
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/ef8f1c53-e9e5-4c6c-9182-ba7c3c16a64b"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/4a28b876-6fe8-4e3c-92cf-d913e283663e"><br>
+
+***
+
+### 
+
+<ins></ins>
+
+- 
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/6af57166-6847-41d6-b5c0-2c3b3b72e5e8"><br>
+
+***
+
+### 
+
+<ins></ins>
+
+- 
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/fa7b31d4-38da-4538-bc0f-0c1c3af42afa"><br>
 
 ***
 
@@ -187,5 +218,23 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ***
 
+### 
 
+<ins></ins>
+
+- 
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+### 
+
+<ins></ins>
+
+- 
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
 
