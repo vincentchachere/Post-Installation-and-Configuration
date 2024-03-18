@@ -47,7 +47,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ***
 
-### 2. ) 
+### 
 
 <ins></ins>
 
@@ -57,7 +57,67 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ***
 
-### 3. ) 
+### 
+
+<ins></ins>
+
+- 
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/4130a88b-cf8d-4bfc-92b3-2d271a8378e5"><br>
+
+***
+
+### 
+
+<ins></ins>
+
+- 
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/3405ce7e-f3e2-4b36-b79d-2e802c3b13d8"><br>
+
+***
+
+### 
+
+<ins></ins>
+
+- 
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/145a3c05-eaab-4ce1-969e-c9713b9f469a"><br>
+
+***
+
+### 
+
+<ins></ins>
+
+- 
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/3102d98c-f8a0-4574-b068-7274841de938"><br>
+
+***
+
+### 
+
+<ins></ins>
+
+- 
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/22f7ca47-455c-4529-a2d8-8a24bf0a0251"><br>
+
+***
+
+### 
+
+<ins></ins>
+
+- 
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/f6554fa5-46d1-4fcf-baee-8d5ef37e313b"><br>
+
+***
+
+### 
 
 <ins></ins>
 
@@ -67,7 +127,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ***
 
-### 4. ) 
+### 
 
 <ins></ins>
 
@@ -77,7 +137,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ***
 
-### 5. ) 
+### 
 
 <ins></ins>
 
@@ -87,7 +147,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ***
 
-### 6. ) 
+### 
 
 <ins></ins>
 
@@ -96,3 +156,36 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img width="1511" alt="isolated" src=""><br>
 
 ***
+
+### 
+
+<ins></ins>
+
+- 
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+### 
+
+<ins></ins>
+
+- 
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+### 
+
+<ins></ins>
+
+- 
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+
+
