@@ -194,6 +194,156 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - 
 
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/cee292b5-f098-43e7-ac89-648911edcacb"><br>
+
+***
+
+### 
+
+<ins></ins>
+
+- 
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/ccd4d824-d33f-46b2-99ea-8db0ad475776"><br>
+
+***
+
+### 
+
+<ins></ins>
+
+- 
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/2c411f6e-eefc-4440-9c73-36e0b61136ec"><br>
+
+***
+
+### 
+
+<ins></ins>
+
+- 
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/c6044063-1b89-4c88-bbe6-d5223a7adf43"><br>
+
+***
+
+### 
+
+<ins></ins>
+
+- 
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/e2707efd-9230-42fd-b6c2-de616cd58088"><br>
+
+***
+
+### 
+
+<ins></ins>
+
+- 
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/100144d4-92e7-4fa5-b389-de0bc6a8361b"><br>
+
+***
+
+### 
+
+<ins></ins>
+
+- 
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/b5dfcc2b-ab55-4d4f-aecd-999584e2f5c9"><br>
+
+***
+
+### 
+
+<ins></ins>
+
+- 
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/07a6fca4-1fb0-4008-9b57-ab4c22f239d1"><br>
+
+***
+
+### 
+
+<ins></ins>
+
+- 
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/cec9e992-59b5-4bab-be67-733c67a73573"><br>
+
+***
+
+### 
+
+<ins></ins>
+
+- 
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/1311b464-9600-4446-9d6d-5867358d64f0"><br>
+
+***
+
+### 
+
+<ins></ins>
+
+- 
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/201f7a16-c66a-40ae-90b3-cb5e245208f8"><br>
+
+***
+
+### 
+
+<ins></ins>
+
+- 
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+### 
+
+<ins></ins>
+
+- 
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+### 
+
+<ins></ins>
+
+- 
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+### 
+
+<ins></ins>
+
+- 
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+### 
+
+<ins></ins>
+
+- 
+
 <img width="1511" alt="isolated" src=""><br>
 
 ***
