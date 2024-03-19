@@ -149,6 +149,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Click: `Create Team`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/85050192-d8da-40ec-bc59-43a465f188af"><br>
+***
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/32f63549-9fda-41cb-ad1c-7f7a12d849ba"><br>
 
 ***
@@ -167,7 +168,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Go To: `Admin Panel` > `Settings` > `Users`
 
-- <ins>Uncheck</ins>: Require registration and login to create tickets
+- Require registration and login to create tickets: <ins>`Uncheck`<ins>
 
 - Click: `Save Changes`
 
@@ -177,9 +178,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ### 6.A ) Configure Agents (workers)
 
-<ins></ins>
+- Go To: `Admin Portal` > `Agents` > `Agents`
 
-- 
+- Click: `Add New Agent`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/ccd4d824-d33f-46b2-99ea-8db0ad475776"><br>
 
@@ -187,29 +188,32 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ### 6.B ) Configure Agents (workers)
 
-- Go To: `Admin Panel` > `Agents` > `Agents` > `Add New`
+- Name: `Jane Doe`
 
-- 
+- Email Address: `jane.doe@gmail.com`
 
-- 
+- Username: `jane.doe`
 
-- 
+- Click: `Set Password`
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/2c411f6e-eefc-4440-9c73-36e0b61136ec"><br>
+  - Uncheck: `Send the agent a password reset email`
 
+  - *`Your osTicket Login Password`*
+ 
+  - Uncheck: `Require password change at next login`
+ 
+  - Click: `Set`
+ 
+  - Go To: The `Access` Tab
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/28bf2f82-c529-4d14-90d1-890559bcc68e"><br>
+***
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/c6044063-1b89-4c88-bbe6-d5223a7adf43"><br>
+***
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/26c9cca7-d870-4cb1-8c2f-0313d56534db"><br>
 ***
 
 ### 6.C ) Configure Agents (workers)
-
-<ins></ins>
-
-- 
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/c6044063-1b89-4c88-bbe6-d5223a7adf43"><br>
-
-***
-
-### 6.D ) Configure Agents (workers)
 
 <ins></ins>
 
@@ -219,7 +223,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ***
 
-### 6.E ) Configure Agents (workers)
+### 6.D ) Configure Agents (workers)
 
 <ins></ins>
 
@@ -229,7 +233,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ***
 
-### 6.F ) Configure Agents (workers)
+### 6.E ) Configure Agents (workers)
 
 <ins></ins>
 
@@ -239,7 +243,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ***
 
-### 6.G ) Configure Agents (workers)
+### 6.F ) Configure Agents (workers)
 
 <ins></ins>
 
