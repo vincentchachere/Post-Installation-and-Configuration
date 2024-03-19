@@ -175,7 +175,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ***
 
-### 6.A ) 
+### 6.A ) Configure Agents (workers)
 
 <ins></ins>
 
@@ -185,9 +185,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ***
 
-### 
+### 6.B ) Configure Agents (workers)
 
-<ins></ins>
+- Go To: `Admin Panel` > `Agents` > `Agents` > `Add New`
+
+- 
+
+- 
 
 - 
 
@@ -195,7 +199,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ***
 
-### 
+### 6.C ) Configure Agents (workers)
 
 <ins></ins>
 
@@ -205,7 +209,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ***
 
-### 
+### 6.D ) Configure Agents (workers)
 
 <ins></ins>
 
@@ -215,7 +219,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ***
 
-### 
+### 6.E ) Configure Agents (workers)
 
 <ins></ins>
 
@@ -225,7 +229,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ***
 
-### 
+### 6.F ) Configure Agents (workers)
 
 <ins></ins>
 
@@ -235,7 +239,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ***
 
-### 
+### 6.G ) Configure Agents (workers)
 
 <ins></ins>
 
