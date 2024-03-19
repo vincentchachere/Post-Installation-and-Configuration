@@ -122,15 +122,15 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ### 3.C ) Configure Departments
 
-<ins></ins>
+- <ins>Congrats!</ins>
 
-- 
+  - *Go to the next step*
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/6af57166-6847-41d6-b5c0-2c3b3b72e5e8"><br>
 
 ***
 
-### 3.D ) Configure Departments
+### 4.A ) Configure Teams
 
 <ins></ins>
 
@@ -140,7 +140,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ***
 
-### 
+### 4.B ) Configure Teams
 
 <ins></ins>
 
@@ -150,7 +150,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ***
 
-### 
+### 4.C ) Configure Teams
 
 <ins></ins>
 
