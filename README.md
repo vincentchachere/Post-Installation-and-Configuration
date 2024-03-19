@@ -298,7 +298,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - 
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/5ae41544-5193-4c73-8b02-50c8854496bf"><br>
 
 ***
 
@@ -308,7 +308,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - 
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/60e07c43-bbbc-448c-81a0-086174608c43"><br>
 
 ***
 
@@ -318,7 +318,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - 
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/92329b05-10fe-4427-a9d0-45e83d3a2bcc"><br>
 
 ***
 
@@ -328,7 +328,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - 
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/886a966b-b422-49e8-b40e-c22176d012d4"><br>
 
 ***
 
