@@ -148,8 +148,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Click: `Create Team`
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/563d4c83-149a-451a-84e6-c785d7631a61"><br>
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/047fb3f8-24db-4e93-b3fd-13131c4ece1d"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/85050192-d8da-40ec-bc59-43a465f188af"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/32f63549-9fda-41cb-ad1c-7f7a12d849ba"><br>
 
 ***
 
@@ -163,17 +163,19 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ***
 
-### 
+### 5. ) Allow Anyone To Create Tickets
 
-<ins></ins>
+- Go To: `Admin Panel` > `Settings` > `Users`
 
-- 
+- <ins>Uncheck</ins>: Require registration and login to create tickets
+
+- Click: `Save Changes`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/cee292b5-f098-43e7-ac89-648911edcacb"><br>
 
 ***
 
-### 
+### 6.A ) 
 
 <ins></ins>
 
