@@ -37,87 +37,64 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ## Part 1: <ins>Admin Portal</ins> Configuration Steps
 
-### 1. ) 
+### 1. ) Login
 
-<ins></ins>
+- Username: `*Use the credentials you made during the installation tutorial*`
 
-- 
+- Password: `*Use the credentials you made during the installation tutorial*`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/bf01b1e9-4eae-4941-95c7-cfe2f338b89f"><br>
 
 ***
 
-### 
+### 2.A ) Configure Roles
 
-<ins></ins>
+- Go To: Admin Panel > Agents > `Roles`
 
-- 
+  - Click: `Add New`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/4e413d8b-26f2-48a4-b2b8-156c52c19c6e"><br>
-
-***
-
-### 
-
-<ins></ins>
-
-- 
-
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/4130a88b-cf8d-4bfc-92b3-2d271a8378e5"><br>
 
 ***
 
-### 
+### 2.B ) Configure Roles
 
-<ins></ins>
+- Name: `Supreme Admin`
 
-- 
+- Click: `Permissions`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/3405ce7e-f3e2-4b36-b79d-2e802c3b13d8"><br>
 
 ***
 
-### 
+### 2.C ) Configure Roles
 
-<ins></ins>
+- Tickets: `Check all boxes`
 
-- 
+- Tasks: `Check all boxes`
+
+- Knowledages: `Check all boxes`
+
+- Click: `Add Role`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/145a3c05-eaab-4ce1-969e-c9713b9f469a"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/8bc678ef-039b-4e36-b094-027b1ee6c9fd"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/640c35bd-3149-41f0-9e15-47ab789131af"><br>
 
 ***
 
-### 
+### 2.D ) Configure Roles
 
-<ins></ins>
+- <ins>Congrats!</ins>
 
-- 
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/3102d98c-f8a0-4574-b068-7274841de938"><br>
-
-***
-
-### 
-
-<ins></ins>
-
-- 
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/22f7ca47-455c-4529-a2d8-8a24bf0a0251"><br>
-
-***
-
-### 
-
-<ins></ins>
-
-- 
+  - *Go to the next step*
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/f6554fa5-46d1-4fcf-baee-8d5ef37e313b"><br>
 
 ***
 
-### 
+### 3.A ) Configure Departments
 
 <ins></ins>
 
@@ -127,7 +104,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ***
 
-### 
+### 3.B ) Configure Departments
 
 <ins></ins>
 
@@ -138,7 +115,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ***
 
-### 
+### 3.C ) Configure Departments
 
 <ins></ins>
 
@@ -148,7 +125,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ***
 
-### 
+### 3.D ) Configure Departments
 
 <ins></ins>
 
