@@ -132,9 +132,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ### 4.A ) Configure Teams
 
-<ins></ins>
+ - Go To: `Admin Panel` > `Agents` > `Teams`
 
-- 
+  - Click: `Add New Team`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/fa7b31d4-38da-4538-bc0f-0c1c3af42afa"><br>
 
@@ -142,29 +142,22 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ### 4.B ) Configure Teams
 
-<ins></ins>
+- Name: `Level II Support`
 
-- 
+- Member: *`The username you used to login into osTicket`*
+
+- Click: `Create Team`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/563d4c83-149a-451a-84e6-c785d7631a61"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/047fb3f8-24db-4e93-b3fd-13131c4ece1d"><br>
 
 ***
 
 ### 4.C ) Configure Teams
 
-<ins></ins>
+- <ins>Congrats!</ins>
 
-- 
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/5d394795-6516-426c-acad-2fe2a87d3ef3"><br>
-
-***
-
-### 
-
-<ins></ins>
-
-- 
+  - *Go to the next step*
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/5f550163-de75-47c3-9252-4d19c943e6f9"><br>
 
