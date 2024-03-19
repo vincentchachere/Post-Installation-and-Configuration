@@ -49,13 +49,12 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ### 2.A ) Configure Roles
 
-- <ins>Go To</ins>:
-
-  - `Admin Panel` > `Agents` > `Roles`
+  - Go To: `Admin Panel` > `Agents` > `Roles`
 
   - Click: `Add New Roles`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/4e413d8b-26f2-48a4-b2b8-156c52c19c6e"><br>
+***
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/3d0f4f65-9735-4d68-b54c-6e7594257049"><br>
 
 ***
