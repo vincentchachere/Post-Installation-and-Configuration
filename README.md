@@ -198,13 +198,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 
   - Uncheck: `Send the agent a password reset email`
 
-  - *`Your osTicket Login Password`*
+  - Password: *`Your osTicket Login Password`*
  
   - Uncheck: `Require password change at next login`
  
   - Click: `Set`
  
-  - Go To: The `Access` Tab
+- Go To: The `Access` Tab
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/28bf2f82-c529-4d14-90d1-890559bcc68e"><br>
 ***
