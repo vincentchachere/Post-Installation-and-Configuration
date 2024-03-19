@@ -111,9 +111,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ### 3.B ) Configure Departments
 
-<ins></ins>
+- Name: `Systems Administrators`
 
-- 
+- Click: `Create Dept`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/ef8f1c53-e9e5-4c6c-9182-ba7c3c16a64b"><br>
 ***
