@@ -263,11 +263,27 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ***
 
-### 6.G ) Configure Agents (workers)
+### 7.A ) Configure Agents (workers)
 
-- 
+*(Go To: `Admin Portal` > `Agents` > `Agents` > `Add New Agent`)*
 
-- 
+- Name: `John Doe`
+
+- Email Address: `john.doe@gmail.com`
+
+- Username: `john.doe`
+
+- Click: `Set Password`
+
+  - Uncheck: `Send the agent a password reset email`
+
+  - Password: *`Your osTicket Login Password`*
+ 
+  - Uncheck: `Require password change at next login`
+ 
+  - Click: `Set`
+ 
+- Go To: The `Access` Tab
 
 *(There are 3 pictures in this step 6.G)*
 
@@ -279,11 +295,15 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ***
 
-### 
+### 7.B ) Configure Agents (workers)
 
-<ins></ins>
+- <ins>Primary Department Access</ins>:
 
-- 
+  - System Administrators
+ 
+  - Supreme Admin
+ 
+- Go To: The `Permissions` Tab
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/201f7a16-c66a-40ae-90b3-cb5e245208f8"><br>
 
