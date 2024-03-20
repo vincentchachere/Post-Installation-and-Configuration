@@ -215,9 +215,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ### 6.C ) Configure Agents (workers)
 
-<ins></ins>
+- <ins>Primary Department</ins>
 
-- 
+  - System Administrators
+ 
+  - Supreme Admin
+ 
+- Go To: The `Permissions` Tab
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/e2707efd-9230-42fd-b6c2-de616cd58088"><br>
 
@@ -225,9 +229,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ### 6.D ) Configure Agents (workers)
 
-<ins></ins>
+- Check: `All Boxes`
 
-- 
+- Go To: The `Teams` Tab
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/100144d4-92e7-4fa5-b389-de0bc6a8361b"><br>
 
@@ -235,9 +239,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ### 6.E ) Configure Agents (workers)
 
-<ins></ins>
+- Assigned Teams: `Level II Support`
 
-- 
+- Click: `Create`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/b5dfcc2b-ab55-4d4f-aecd-999584e2f5c9"><br>
 
@@ -245,31 +249,27 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ### 6.F ) Configure Agents (workers)
 
-<ins></ins>
+<ins>Congrats!</ins>
 
-- 
+- *Go To The Next Step*
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/07a6fca4-1fb0-4008-9b57-ab4c22f239d1"><br>
 
 ***
 
-### 
-
-<ins></ins>
+### 7. ) 
 
 - 
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/cec9e992-59b5-4bab-be67-733c67a73573"><br>
+- 
 
+- *There are 3 pictures in this step*
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/62d5d16e-f81b-42ff-bf3b-0baa27428cba"><br>
 ***
-
-### 
-
-<ins></ins>
-
-- 
-
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/1311b464-9600-4446-9d6d-5867358d64f0"><br>
+***
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/e505151c-2fa9-4613-a872-b7dc902d88e1"><br>
 
 ***
 
