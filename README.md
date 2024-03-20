@@ -299,9 +299,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - <ins>Primary Department Access</ins>:
 
-  - System Administrators
+  - Select: `System Administrators`
  
-  - Supreme Admin
+  - Select: `Supreme Admin`
  
 - Go To: The `Permissions` Tab
 
