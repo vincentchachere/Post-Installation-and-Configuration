@@ -285,7 +285,7 @@ This tutorial outlines the post-install configuration of the open-source help de
  
 - Go To: The `Access` Tab
 
-*(There are 3 pictures in this step 6.G)*
+*(There are 3 pictures in this step 7.A)*
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/62d5d16e-f81b-42ff-bf3b-0baa27428cba"><br>
 ***
