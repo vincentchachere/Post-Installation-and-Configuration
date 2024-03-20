@@ -79,11 +79,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Click: `Add Role`
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/145a3c05-eaab-4ce1-969e-c9713b9f469a"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/911a723e-13e6-48f1-86ad-922bcf5d1e9c"><br>
 ***
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/8bc678ef-039b-4e36-b094-027b1ee6c9fd"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/95cfc187-153c-4c8a-a957-45da2a2b4bee"><br>
 ***
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/640c35bd-3149-41f0-9e15-47ab789131af"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/f99c7051-776f-431d-bb26-5a883ffaed9d"><br>
 
 ***
 
