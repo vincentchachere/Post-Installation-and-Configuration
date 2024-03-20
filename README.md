@@ -53,6 +53,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 
   - Click: `Add New Roles`
 
+*(There are 2 pictures in this step 2.A)*
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/4e413d8b-26f2-48a4-b2b8-156c52c19c6e"><br>
 ***
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/3d0f4f65-9735-4d68-b54c-6e7594257049"><br>
@@ -79,6 +81,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Click: `Add Role`
 
+*(There are 3 pictures in this step 2.C)*
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/911a723e-13e6-48f1-86ad-922bcf5d1e9c"><br>
 ***
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/95cfc187-153c-4c8a-a957-45da2a2b4bee"><br>
@@ -99,11 +103,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ### 3.A ) Configure Departments
 
-- <ins>Within Admin Panel Go To</ins>:
-
-  - Click: `Departments`
-
-  - Click: `Add New Departments`
+- Go To: `Admin Panel` > `Departments` > `Add New Departments`
  
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/598b4c02-6d6c-40d1-930f-337cfd853d1e"><br>
 
@@ -114,6 +114,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Name: `Systems Administrators`
 
 - Click: `Create Dept`
+
+*(There are 2 pictures in this step 3.B)*
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/ef8f1c53-e9e5-4c6c-9182-ba7c3c16a64b"><br>
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/4a28b876-6fe8-4e3c-92cf-d913e283663e"><br>
@@ -147,6 +149,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Member: *`The username you used to login into osTicket`*
 
 - Click: `Create Team`
+
+*(There are 2 pictures in this step 4.B)*
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/85050192-d8da-40ec-bc59-43a465f188af"><br>
 ***
@@ -206,6 +210,8 @@ This tutorial outlines the post-install configuration of the open-source help de
  
 - Go To: The `Access` Tab
 
+*(There are 3 pictures in this step 6.B)*
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/28bf2f82-c529-4d14-90d1-890559bcc68e"><br>
 ***
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/c6044063-1b89-4c88-bbe6-d5223a7adf43"><br>
@@ -215,7 +221,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ### 6.C ) Configure Agents (workers)
 
-- <ins>Primary Department</ins>
+- <ins>Primary Department Access</ins>:
 
   - System Administrators
  
@@ -257,13 +263,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ***
 
-### 7. ) 
+### 6.G ) Configure Agents (workers)
 
 - 
 
 - 
 
-- *There are 3 pictures in this step*
+*(There are 3 pictures in this step 6.G)*
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/62d5d16e-f81b-42ff-bf3b-0baa27428cba"><br>
 ***
