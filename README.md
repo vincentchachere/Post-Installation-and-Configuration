@@ -35,7 +35,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ***
 
-## Part 1: <ins>Admin Portal</ins> Configuration Steps
+## Part 1 - <ins>Admin Portal</ins> Configuration Steps
 
 ### 1. ) Login
 
@@ -309,17 +309,17 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ***
 
-### 
+### 7.C ) Configure Agents (workers)
 
-<ins></ins>
+<ins>Congrats!</ins>
 
-- 
+- *Go To: Part 2 - <ins>Agent Portal</ins> Configuration Steps*
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/aa8cd245-2fd1-40f2-bfcf-421e8fba5f50"><br>
 
 ***
 
-## Part 2: <ins>Agent Portal</ins> Configuration Steps
+## Part 2 - <ins>Agent Portal</ins> Configuration Steps
 
 ### 
 
