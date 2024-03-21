@@ -77,7 +77,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 *(There are 4 pictures in this step 2.B)*
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/3405ce7e-f3e2-4b36-b79d-2e802c3b13d8"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/0cae777b-33d2-4766-af3f-6391f201694f"><br>
 ***
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/911a723e-13e6-48f1-86ad-922bcf5d1e9c"><br>
 ***
@@ -87,7 +87,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ***
 
-### 2.D ) Configure Roles
+### 2.C ) Configure Roles
 
 - <ins>Congrats!</ins>
 
