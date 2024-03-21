@@ -457,6 +457,8 @@ This tutorial outlines the post-install configuration of the open-source help de
  
   - `Password Reset`
 
+*(There are 5 pictures in this step 10.A)*
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/7a4ee028-d064-44b1-bf3b-85f1df87c4e7"><br>
 ***
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/7c99fdf8-1359-4944-b584-251220693901"><br>
@@ -475,99 +477,5 @@ This tutorial outlines the post-install configuration of the open-source help de
 - 
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/7f1f496f-6f42-49c5-a32d-5ae1a013664e"><br>
-***
 
 ***
-
-### 10.C ) Configure Help Topics
-
-<ins></ins>
-
-- 
-
-<img width="1511" alt="isolated" src=""><br>
-
-***
-
-### 10.D ) Configure Help Topics
-
-<ins></ins>
-
-- 
-
-<img width="1511" alt="isolated" src=""><br>
-
-***
-
-### 
-
-<ins></ins>
-
-- 
-
-<img width="1511" alt="isolated" src=""><br>
-
-***
-
-### 
-
-<ins></ins>
-
-- 
-
-<img width="1511" alt="isolated" src=""><br>
-
-***
-
-### 
-
-<ins></ins>
-
-- 
-
-<img width="1511" alt="isolated" src=""><br>
-
-***
-
-### 
-
-<ins></ins>
-
-- 
-
-<img width="1511" alt="isolated" src=""><br>
-
-***
-
-### 
-
-<ins></ins>
-
-- 
-
-<img width="1511" alt="isolated" src=""><br>
-
-***
-
-### 
-
-<ins></ins>
-
-- 
-
-<img width="1511" alt="isolated" src=""><br>
-
-***
-
-### 
-
-<ins></ins>
-
-- 
-
-<img width="1511" alt="isolated" src=""><br>
-
-***
-
-
-
