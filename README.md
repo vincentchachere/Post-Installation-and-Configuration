@@ -330,6 +330,8 @@ This tutorial outlines the post-install configuration of the open-source help de
   - Full Name: `Karen Karen`
  
   - Click: `Add User`
+ 
+*(There are 3 pictures in this step 8.A)*
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/9cb4bebd-b0b8-4412-ba0b-a93722453ee2"><br>
 ***
@@ -341,35 +343,25 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ### 8.B ) Configure Users (Customers)
 
-<ins></ins>
+- Go To: `Agents` > `Users` > `Add User `
 
-- 
+  - Email Address: `Karen@osticket.com`
+ 
+  - Full Name: `Karen Karen`
+ 
+  - Click: `Add User`
+ 
+*(There are 3 pictures in this step 8.B)*
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/d28ceaca-ad99-479d-aa21-cbc8d0b196c0"><br>
-
 ***
-
-### 8.C ) Configure Users (Customers)
-
-<ins></ins>
-
-- 
-
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/50b407b0-8928-4992-b5ab-8e43d207aa14"><br>
-
 ***
-
-### 8.F ) Configure Users (Customers)
-
-<ins></ins>
-
-- 
-
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/959587b2-3d6e-4ca0-b493-b31ae82d48c5"><br>
 
 ***
 
-### 8.G ) Configure Users (Customers)
+### 8.C ) Configure Users (Customers)
 
 <ins></ins>
 
@@ -476,6 +468,66 @@ This tutorial outlines the post-install configuration of the open-source help de
 ***
 
 ### 10.D ) Configure Help Topics
+
+<ins></ins>
+
+- 
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+### 
+
+<ins></ins>
+
+- 
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+### 
+
+<ins></ins>
+
+- 
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+### 
+
+<ins></ins>
+
+- 
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+### 
+
+<ins></ins>
+
+- 
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+### 
+
+<ins></ins>
+
+- 
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+### 
 
 <ins></ins>
 
