@@ -387,11 +387,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ### 9.B ) Configure SLA
 
-- Name: SEV-A
+- Go To: `Admin Panel` > `Manage` > `SLA` > `Add New SLA Plan `
 
-- Grace Period: `1 Hour`
+  - Name: `SEV-A`
 
-- Schedule: `24/7`
+  - Grace Period: `1 Hour`
+
+  - Schedule: `24/7`
 
 - Click: `Add Plan`
 
@@ -401,11 +403,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ### 9.C ) Configure SLA
 
-- Name: `SEV-B`
+- Go To: `Admin Panel` > `Manage` > `SLA` > `Add New SLA Plan `
 
-- Grace Period: `4 Hours`
+  - Name: `SEV-B`
 
-- Schedule: `24/7`
+  - Grace Period: `4 Hours`
+
+  - Schedule: `24/7`
 
 - Click: `Add Plan`
 
@@ -415,11 +419,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ### 9.D ) Configure SLA
 
-- Name: `SEV-C`
+- Go To: `Admin Panel` > `Manage` > `SLA` > `Add New SLA Plan `
 
-- Grace Period: `8 Hours`
+  - Name: `SEV-C`
 
-- Schedule: `Business Hours: Monday - Friday 8am to 5pm`
+  - Grace Period: `8 Hours`
+
+  - Schedule: `Business Hours: Monday - Friday 8am to 5pm`
 
 - Click: `Add Plan`
 
@@ -429,7 +435,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ### 9.E ) Configure SLA
 
+<ins>Congrats!</ins>
 
+- *Proceed To The Next Step*
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/cdbca621-8b4b-4105-ac2b-e10f85be37a3"><br>
 
