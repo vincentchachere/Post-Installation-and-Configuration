@@ -373,9 +373,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ### 9.A ) Configure SLA
 
-<ins></ins>
+- Go To: `Admin Panel` > `Manage` > `SLA` > `Add New SLA Plan `
 
-- 
+  - Create: `SEV-A (1 Hour: 24/7 )`
+
+  - Create: `SEV-B (4 Hours: 24/7 )`
+
+  - Create: `SEV-C (8 Hours: Business Hours = Monday - Friday 8am to 5pm )`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/5196eb74-6b90-47c2-bfad-7ab07aed1741"><br>
 
@@ -383,9 +387,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ### 9.B ) Configure SLA
 
-<ins></ins>
+- Name: SEV-A
 
-- 
+- Grace Period: `1 Hour`
+
+- Schedule: `24/7`
+
+- Click: `Add Plan`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/e850f855-a6f5-41d8-8be5-99c1cf1d23ed"><br>
 
@@ -393,9 +401,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ### 9.C ) Configure SLA
 
-<ins></ins>
+- Name: `SEV-B`
 
-- 
+- Grace Period: `4 Hours`
+
+- Schedule: `24/7`
+
+- Click: `Add Plan`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/1c7ab212-2c15-4e2f-9a7d-4e58114b5678"><br>
 
@@ -403,9 +415,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ### 9.D ) Configure SLA
 
-<ins></ins>
+- Name: `SEV-C`
 
-- 
+- Grace Period: `8 Hours`
+
+- Schedule: `Business Hours: Monday - Friday 8am to 5pm`
+
+- Click: `Add Plan`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/fa2d4d6b-d495-48d2-ab2b-d97ebb672861"><br>
 
@@ -413,9 +429,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ### 9.E ) Configure SLA
 
-<ins></ins>
 
-- 
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/cdbca621-8b4b-4105-ac2b-e10f85be37a3"><br>
 
