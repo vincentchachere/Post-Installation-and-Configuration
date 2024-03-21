@@ -321,37 +321,25 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ## Part 2 - <ins>Agent Portal</ins> Configuration Steps
 
-### 8.A ) 
+### 8.A ) Configure Users (Customers)
 
-- 
+- Go To: `Agents` > `Users` > `Add User `
 
-- 
+  - Email Address: `Karen@osticket.com`
+ 
+  - Full Name: `Karen Karen`
+ 
+  - Click: `Add User`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/9cb4bebd-b0b8-4412-ba0b-a93722453ee2"><br>
-
 ***
-
-### 8.B ) 
-
-<ins></ins>
-
-- 
-
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/3c2693bc-cf7a-42e3-a362-421bab2c6015"><br>
-
 ***
-
-### 8.C ) 
-
-<ins></ins>
-
-- 
-
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/5df98d4f-9c94-4710-9e08-c2898a0c91ed"><br>
 
 ***
 
-### 8.D ) 
+### 8.B ) Configure Users (Customers)
 
 <ins></ins>
 
@@ -361,7 +349,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ***
 
-### 8.E ) 
+### 8.C ) Configure Users (Customers)
 
 <ins></ins>
 
@@ -371,7 +359,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ***
 
-### 8.F ) 
+### 8.F ) Configure Users (Customers)
 
 <ins></ins>
 
@@ -381,7 +369,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ***
 
-### 8.G ) 
+### 8.G ) Configure Users (Customers)
 
 <ins></ins>
 
@@ -443,7 +431,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ### 10.A ) Configure Help Topics
 
-- Go To: `Admin Panel` > `Manage` > `Help Topics`
+- Go To: `Admin Panel` > `Manage` > `Add New Help Topics`
 
 - <ins>Make the following Help Topics</ins>:
 
