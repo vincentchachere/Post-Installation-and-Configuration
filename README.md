@@ -67,22 +67,18 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Click: `Permissions`
 
+  - Tickets: `Check all boxes`
+
+  - Tasks: `Check all boxes`
+
+  - Knowledages: `Check all boxes`
+
+  - Click: `Add Role`
+
+*(There are 4 pictures in this step 2.B)*
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/3405ce7e-f3e2-4b36-b79d-2e802c3b13d8"><br>
-
 ***
-
-### 2.C ) Configure Roles
-
-- Tickets: `Check all boxes`
-
-- Tasks: `Check all boxes`
-
-- Knowledages: `Check all boxes`
-
-- Click: `Add Role`
-
-*(There are 3 pictures in this step 2.C)*
-
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/911a723e-13e6-48f1-86ad-922bcf5d1e9c"><br>
 ***
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/95cfc187-153c-4c8a-a957-45da2a2b4bee"><br>
