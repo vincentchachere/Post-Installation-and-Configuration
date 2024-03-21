@@ -470,7 +470,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ### 10.B ) Configure Help Topics
 
-<ins></ins>
+- 
 
 - 
 
