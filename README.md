@@ -323,7 +323,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ### 8.A ) Configure Users (Customers)
 
-- Go To: `Agents` > `Users` > `Add User `
+- Go To: `Agents` > `Users` > `User Directory` > `Add User `
 
   - Email Address: `Karen@osticket.com`
  
@@ -343,11 +343,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ### 8.B ) Configure Users (Customers)
 
-- Go To: `Agents` > `Users` > `Add User `
+- Go To: `Agents` > `Users` > `User Directory` > `Add User `
 
-  - Email Address: `Karen@osticket.com`
+  - Email Address: `Ken@osticket.com`
  
-  - Full Name: `Karen Karen`
+  - Full Name: `Ken Ken`
  
   - Click: `Add User`
  
@@ -363,9 +363,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ### 8.C ) Configure Users (Customers)
 
-<ins></ins>
+<ins>Congrats!</ins>
 
-- 
+- *Continue To The Next Step*
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/088d9037-d06e-4091-8326-53a1cebc676b"><br>
 
