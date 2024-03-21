@@ -327,7 +327,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - 
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/9cb4bebd-b0b8-4412-ba0b-a93722453ee2"><br>
 
 ***
 
@@ -337,7 +337,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - 
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/3c2693bc-cf7a-42e3-a362-421bab2c6015"><br>
 
 ***
 
@@ -347,7 +347,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - 
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/5df98d4f-9c94-4710-9e08-c2898a0c91ed"><br>
 
 ***
 
@@ -357,7 +357,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - 
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/d28ceaca-ad99-479d-aa21-cbc8d0b196c0"><br>
 
 ***
 
@@ -367,7 +367,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - 
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/50b407b0-8928-4992-b5ab-8e43d207aa14"><br>
 
 ***
 
@@ -377,11 +377,117 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - 
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/047135c2-bb94-476a-ae3f-dd1ff1143de3"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/959587b2-3d6e-4ca0-b493-b31ae82d48c5"><br>
 
 ***
 
-### 
+### 8.G ) 
+
+<ins></ins>
+
+- 
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/088d9037-d06e-4091-8326-53a1cebc676b"><br>
+
+***
+
+### 9.A ) Configure SLA
+
+<ins></ins>
+
+- 
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/5196eb74-6b90-47c2-bfad-7ab07aed1741"><br>
+
+***
+
+### 9.B ) Configure SLA
+
+<ins></ins>
+
+- 
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/e850f855-a6f5-41d8-8be5-99c1cf1d23ed"><br>
+
+***
+
+### 9.C ) Configure SLA
+
+<ins></ins>
+
+- 
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/1c7ab212-2c15-4e2f-9a7d-4e58114b5678"><br>
+
+***
+
+### 9.D ) Configure SLA
+
+<ins></ins>
+
+- 
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/fa2d4d6b-d495-48d2-ab2b-d97ebb672861"><br>
+
+***
+
+### 9.E ) Configure SLA
+
+<ins></ins>
+
+- 
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/cdbca621-8b4b-4105-ac2b-e10f85be37a3"><br>
+
+***
+
+### 10.A ) Configure Help Topics
+
+- Go To: `Admin Panel` > `Manage` > `Help Topics`
+
+- <ins>Make the following Help Topics</ins>:
+
+  - `Business Critical Outage`
+ 
+  - `Equipment Request`
+ 
+  - `Personal Computer Issues`
+ 
+  - `Password Reset`
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/7a4ee028-d064-44b1-bf3b-85f1df87c4e7"><br>
+***
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/7c99fdf8-1359-4944-b584-251220693901"><br>
+***
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/9cebecd8-b418-4a2d-a788-2d0dbef58b90"><br>
+***
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/d7c0e6f1-c66e-40bd-aa18-dd27708b40ab"><br>
+***
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/45483a06-5149-4918-bd4e-1719593dbac3"><br>
+***
+
+### 10.B ) Configure Help Topics
+
+<ins></ins>
+
+- 
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/7f1f496f-6f42-49c5-a32d-5ae1a013664e"><br>
+***
+
+***
+
+### 10.C ) Configure Help Topics
+
+<ins></ins>
+
+- 
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+### 10.D ) Configure Help Topics
 
 <ins></ins>
 
@@ -400,4 +506,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img width="1511" alt="isolated" src=""><br>
 
 ***
+
+
 
