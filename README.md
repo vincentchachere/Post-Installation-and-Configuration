@@ -321,7 +321,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ## Part 2 - <ins>Agent Portal</ins> Configuration Steps
 
-### 
+### 8.A ) 
 
 <ins></ins>
 
@@ -331,13 +331,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ***
 
-### 
+### 8.B ) 
 
 <ins></ins>
 
 - 
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/60e07c43-bbbc-448c-81a0-086174608c43"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/047135c2-bb94-476a-ae3f-dd1ff1143de3"><br>
 
 ***
 
