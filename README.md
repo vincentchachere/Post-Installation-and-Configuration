@@ -208,11 +208,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 *(There are 3 pictures in this step 6.B)*
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/28bf2f82-c529-4d14-90d1-890559bcc68e"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/c3b28c22-2ee1-440a-bd86-34b803006700"><br>
 ***
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/c6044063-1b89-4c88-bbe6-d5223a7adf43"><br>
 ***
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/26c9cca7-d870-4cb1-8c2f-0313d56534db"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/05bea228-00fa-429d-9975-aae24897557c"><br>
 ***
 
 ### 6.C ) Configure Agents (workers)
@@ -293,11 +293,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 *(There are 3 pictures in this step 7.A)*
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/d1d96ef0-ddcf-439e-986d-74ab09d1fbbc"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/37900d59-37d0-47ea-a249-9ff56c9733f6"><br>
 ***
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/1311b464-9600-4446-9d6d-5867358d64f0"><br>
 ***
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/e505151c-2fa9-4613-a872-b7dc902d88e1"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/e86d88d4-dd4b-42f6-8f42-1cf3a4902227"><br>
 
 ***
 
