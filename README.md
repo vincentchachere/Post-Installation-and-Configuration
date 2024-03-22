@@ -237,11 +237,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ### 6.D ) Configure Agents (workers)
 
-<ins>Permission Tab</ins>:
+- <ins>Permission Tab</ins>:
 
-- Check: `All Boxes`
+  - Check: `All Boxes`
 
-- Go To: The `Teams` Tab
+  - Go To: The `Teams` Tab
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/100144d4-92e7-4fa5-b389-de0bc6a8361b"><br>
 
@@ -249,11 +249,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ### 6.E ) Configure Agents (workers)
 
-<ins>Teams Tab</ins>:
+- <ins>Teams Tab</ins>:
 
-- Assigned Teams: `Level II Support`
+  - Assigned Teams: `Level II Support`
 
-- Click: `Create`
+  - Click: `Create`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/b5dfcc2b-ab55-4d4f-aecd-999584e2f5c9"><br>
 
