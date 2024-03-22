@@ -217,19 +217,27 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ### 6.C ) Configure Agents (workers)
 
-- <ins>Primary Department Access</ins>:
+- <ins>Primary Department</ins>:
 
-  - System Administrators
+  - Department: `System Administrators`
+
+  - Role: `Supreme Admin`
+
+- <ins>Extended access</ins>:
+
+  - Department: `Support`
  
-  - Supreme Admin
- 
+  - Role: `Supreme Admin`
+
 - Go To: The `Permissions` Tab
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/e2707efd-9230-42fd-b6c2-de616cd58088"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/1803a50c-7629-419a-b59c-a7efd7e74e30"><br>
 
 ***
 
 ### 6.D ) Configure Agents (workers)
+
+<ins>Permission Tab</ins>:
 
 - Check: `All Boxes`
 
@@ -240,6 +248,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 ***
 
 ### 6.E ) Configure Agents (workers)
+
+<ins>Teams Tab</ins>:
 
 - Assigned Teams: `Level II Support`
 
