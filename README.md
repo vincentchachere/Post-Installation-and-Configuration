@@ -8,12 +8,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 ## Environments and Technologies Used
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+- Remote Desktop (macOS)
 - Internet Information Services (IIS)
 
 ## Operating Systems Used
 
-- macOS
 - Windows 10 (21H2)
 
 ## Post-Install Configuration Objectives
