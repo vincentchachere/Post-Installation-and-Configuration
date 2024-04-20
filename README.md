@@ -484,3 +484,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/7f1f496f-6f42-49c5-a32d-5ae1a013664e"><br>
 
 ***
+
+☎️ For any questions, concerns, or just to connect, you can contact me at:
+
+📲 LinkedIn: www.linkedin.com/in/vincentchachere
+
+📬 Email: vincent.chachere@gmail.com
+
+(No soliticing, only real connections, please and thank you.)
