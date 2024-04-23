@@ -479,7 +479,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Congratulations! You configured osTicket!
 
-- Click here to move on to the final part of this tutorial!
+- Click [here](https://github.com/vincentchachere/ticket-lifecycle) to move on to the final part of this tutorial!
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/7f1f496f-6f42-49c5-a32d-5ae1a013664e"><br>
 
