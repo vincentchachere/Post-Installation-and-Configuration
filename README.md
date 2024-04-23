@@ -230,7 +230,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Go To: The `Permissions` Tab
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/1803a50c-7629-419a-b59c-a7efd7e74e30"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/36899b8c-a312-4ef5-8c86-8c1efd1afb67"><br>
 
 ***
 
