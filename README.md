@@ -38,9 +38,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ### 1. ) Login
 
-- Username: `*Use the credentials you made during the installation tutorial*`
+- Username: `Use the credentials you made during the installation tutorial`
 
-- Password: `*Use the credentials you made during the installation tutorial*`
+- Password: `Use the credentials you made during the installation tutorial`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/bf01b1e9-4eae-4941-95c7-cfe2f338b89f"><br>
 
