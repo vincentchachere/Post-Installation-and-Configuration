@@ -211,7 +211,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 ***
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/c6044063-1b89-4c88-bbe6-d5223a7adf43"><br>
 ***
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/05bea228-00fa-429d-9975-aae24897557c"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/127f7308-70e0-40bb-8c46-3966f12af183"><br>
 ***
 
 ### 6.C ) Configure Agents (workers)
