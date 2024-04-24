@@ -32,9 +32,19 @@ This tutorial outlines the post-install configuration of the open-source help de
   - [Users](https://docs.osticket.com/en/latest/Agent/Users/User%20Directory.html)
   - [Service Level Agreement (SLA)](https://docs.osticket.com/en/latest/Admin/Manage/SLA%20Plans.html)
 
+- <ins>For the prerequisites to this lab, please refer to my other lab</ins>:
+
+  - [osTicket - Ticket Lifecycle Examples](https://github.com/vincentchachere/osticket-prereqs) ⬅️ *Click Here*
+
 ***
 
-## Part 1 - <ins>Admin Portal</ins> Configuration Steps
+<details>
+
+<summary>
+
+## 🎟️ Part 1: Configure Roles
+
+</summary>
 
 ### 1. ) Login
 
@@ -94,7 +104,15 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/f6554fa5-46d1-4fcf-baee-8d5ef37e313b"><br>
 
-***
+</details>
+
+<details>
+
+<summary>
+
+## 🎟️ Part 2: Configure Departments
+
+</summary>
 
 ### 3.A ) Configure Departments
 
@@ -126,6 +144,16 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/6af57166-6847-41d6-b5c0-2c3b3b72e5e8"><br>
 
 ***
+
+</details>
+
+<details>
+
+<summary>
+
+## 🎟️ Part 3: Configure Teams
+
+</summary>
 
 ### 4.A ) Configure Teams
 
@@ -174,6 +202,16 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/cee292b5-f098-43e7-ac89-648911edcacb"><br>
 
 ***
+
+</details>
+
+<details>
+
+<summary>
+
+## 🎟️ Part 4: Configure Agents
+
+</summary>
 
 ### 6.A ) Configure Agents (workers)
 
@@ -324,7 +362,15 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ***
 
-## Part 2 - <ins>Agent Portal</ins> Configuration Steps
+</details>
+
+<details>
+
+<summary>
+
+## 🎟️ Part 5: Configure Users
+
+</summary>
 
 ### 8.A ) Configure Users (Customers)
 
@@ -375,6 +421,16 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/088d9037-d06e-4091-8326-53a1cebc676b"><br>
 
 ***
+
+</details>
+
+<details>
+
+<summary>
+
+## 🎟️ Part 6: Configure SLAs
+
+</summary>
 
 ### 9.A ) Configure SLA
 
@@ -448,6 +504,16 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ***
 
+</details>
+
+<details>
+
+<summary>
+
+## 🎟️ Part 7: Configure Help Topics
+
+</summary>
+
 ### 10.A ) Configure Help Topics
 
 - Go To: `Admin Panel` > `Manage` > `Add New Help Topics`
@@ -475,9 +541,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/45483a06-5149-4918-bd4e-1719593dbac3"><br>
 ***
 
-### 10.B ) Configure Help Topics
-
-- Congratulations! You configured osTicket!
+### 10.B ) Congratulations! You configured osTicket!
 
 - Click [here](https://github.com/vincentchachere/ticket-lifecycle) to move on to the final part of this tutorial!
 
