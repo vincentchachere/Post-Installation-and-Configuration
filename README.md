@@ -342,13 +342,17 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - <ins>Primary Department Access</ins>:
 
-  - Select: `System Administrators`
+  - Select: `Support`
  
-  - Select: `Supreme Admin`
+  - Select: `View Only`
  
 - Go To: The `Permissions` Tab
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/201f7a16-c66a-40ae-90b3-cb5e245208f8"><br>
+  - Check: `All Boxes`
+ 
+- *Leave the Teams part blank*
+
+<img width="1511" alt="isolated" src="https://github.com/user-attachments/assets/6a7ca361-2e5b-482f-b2e6-d5570cb82cc7"><br>
 
 ***
 
@@ -358,7 +362,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - *Go To: Part 2 - <ins>Agent Portal</ins> Configuration Steps*
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/aa8cd245-2fd1-40f2-bfcf-421e8fba5f50"><br>
+<img width="1511" alt="isolated" src="https://github.com/user-attachments/assets/53b687c8-f33b-4176-9c08-7c4329024dac"><br>
 
 ***
 
