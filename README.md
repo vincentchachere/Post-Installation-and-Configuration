@@ -140,7 +140,7 @@ This lab focuses on the post-installation configuration of the osTicket help des
 <br>
 <br>
 
-You've Succuessfully configured Departments inside osTicekt!
+### You've Succuessfully configured Departments inside osTicekt!
 
 *Proceed to the Part 3: Configuring Teams inside osTicket*
 
@@ -172,11 +172,24 @@ You've Succuessfully configured Departments inside osTicekt!
 
 - Name: `Level II Support`
 
-- Member: *`The username you used to login into osTicket`*
+- Select: `Members` Tab
+
+- Member: *The First and Last name you used in the [Prerequisites and Installtion](https://github.com/vincentchachere/osTicket-Prerequisites) osTicket Lab*
 
 - Click: `Create Team`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/85050192-d8da-40ec-bc59-43a465f188af">
+
+<br>
+<br>
+<br>
+
+<ins>Configuring Teams inside osTicket</ins>:
+
+- Member: *`The username you used to login into osTicket`*
+
+- Click: `Create Team`
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/32f63549-9fda-41cb-ad1c-7f7a12d849ba">
 
 <br>
@@ -197,11 +210,11 @@ You've Succuessfully configured Teams inside osTicket!
 
 - Go To: `Admin Panel` > `Settings` > `Users`
 
-- Require registration and login to create tickets: <ins>`Uncheck`<ins>
+- Uncheck: the `Require registration and login to create tickets` box
 
 - Click: `Save Changes`
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/cee292b5-f098-43e7-ac89-648911edcacb">
+<img width="1511" alt="isolated" src="https://github.com/user-attachments/assets/acf7871a-020a-44bd-a00e-6d4e0a61bd73">
 
 </details>
 
