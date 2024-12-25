@@ -69,7 +69,7 @@ This lab focuses on the post-installation configuration of the osTicket help des
 <br>
 <br>
 
-<ins>Configuring Roles within osTicket</ins>:
+<ins>Configuring Roles inside osTicket</ins>:
 
 - Name: `Supreme Admin` then..
 
@@ -77,7 +77,11 @@ This lab focuses on the post-installation configuration of the osTicket help des
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/0cae777b-33d2-4766-af3f-6391f201694f">
 
-<ins>Configuring Roles within osTicket</ins>:
+<br>
+<br>
+<br>
+
+<ins>Configuring Roles inside osTicket</ins>:
 
 *Within the Permissions Tab:*
 
@@ -97,11 +101,9 @@ This lab focuses on the post-installation configuration of the osTicket help des
 <br>
 <br>
 
-<ins>Configuring Roles within osTicket</ins>:
+### You've Successfully configured your first role within osTicket!
 
-- <ins>Congrats!</ins>
-
-  - *Go to the next step*
+*Proceed to the Part 2: Configuring Departments inside osTicket*
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/f6554fa5-46d1-4fcf-baee-8d5ef37e313b">
 
@@ -115,7 +117,7 @@ This lab focuses on the post-installation configuration of the osTicket help des
 
 </summary>
 
-### 3. ) Configure Departments
+### 3. ) Configuring Departments inside osTicket
 
 - Go To: `Admin Panel` > `Departments` > `Add New Departments`
  
@@ -125,13 +127,11 @@ This lab focuses on the post-installation configuration of the osTicket help des
 <br>
 <br>
 
-<ins>Configuring Departments within osTicket</ins>:
+<ins>Configuring Departments inside osTicket</ins>:
 
 - Name: `Systems Administrators`
 
 - Click: `Create Dept`
-
-*(There are 2 pictures in this step 3.B)*
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/ef8f1c53-e9e5-4c6c-9182-ba7c3c16a64b">
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/4a28b876-6fe8-4e3c-92cf-d913e283663e">
@@ -140,11 +140,9 @@ This lab focuses on the post-installation configuration of the osTicket help des
 <br>
 <br>
 
-<ins>Configuring Departments within osTicket</ins>:
+You've Succuessfully configured Departments inside osTicekt!
 
-- <ins>Congrats!</ins>
-
-  - *Go to the next step*
+*Proceed to the Part 3: Configuring Teams inside osTicket*
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/6af57166-6847-41d6-b5c0-2c3b3b72e5e8">
 
@@ -158,11 +156,11 @@ This lab focuses on the post-installation configuration of the osTicket help des
 
 </summary>
 
-### 4.A ) Configure Teams
+### 4. ) Configuring Teams inside osTicket
 
  - Go To: `Admin Panel` > `Agents` > `Teams`
 
-  - Click: `Add New Team`
+- Click: `Add New Team`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/fa7b31d4-38da-4538-bc0f-0c1c3af42afa">
 
@@ -170,7 +168,7 @@ This lab focuses on the post-installation configuration of the osTicket help des
 <br>
 <br>
 
-### 4.B ) Configure Teams
+<ins>Configuring Teams inside osTicket</ins>:
 
 - Name: `Level II Support`
 
@@ -178,21 +176,16 @@ This lab focuses on the post-installation configuration of the osTicket help des
 
 - Click: `Create Team`
 
-*(There are 2 pictures in this step 4.B)*
-
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/85050192-d8da-40ec-bc59-43a465f188af">
-***
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/32f63549-9fda-41cb-ad1c-7f7a12d849ba">
 
 <br>
 <br>
 <br>
 
-### 4.C ) Configure Teams
+You've Succuessfully configured Teams inside osTicket!
 
-- <ins>Congrats!</ins>
-
-  - *Go to the next step*
+*Proceed to the final step within this part of the lab.*
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/5f550163-de75-47c3-9252-4d19c943e6f9">
 
@@ -220,7 +213,7 @@ This lab focuses on the post-installation configuration of the osTicket help des
 
 </summary>
 
-### 6.A ) Configure Agents (workers)
+### 6. ) Configuring Agents (workers) inside osTicket
 
 - Go To: `Admin Portal` > `Agents` > `Agents`
 
@@ -232,7 +225,7 @@ This lab focuses on the post-installation configuration of the osTicket help des
 <br>
 <br>
 
-### 6.B ) Configure Agents (workers)
+<ins>Configuring Agents (workers) inside osTicket</ins>:
 
 - Name: `Jane Doe`
 
@@ -252,19 +245,15 @@ This lab focuses on the post-installation configuration of the osTicket help des
  
 - Go To: The `Access` Tab
 
-*(There are 3 pictures in this step 6.B)*
-
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/c3b28c22-2ee1-440a-bd86-34b803006700">
-***
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/c6044063-1b89-4c88-bbe6-d5223a7adf43">
-***
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/127f7308-70e0-40bb-8c46-3966f12af183">
 
 <br>
 <br>
 <br>
 
-### 6.C ) Configure Agents (workers)
+<ins>Configuring Agents (workers) inside osTicket</ins>:
 
 - <ins>Primary Department</ins>:
 
@@ -286,7 +275,7 @@ This lab focuses on the post-installation configuration of the osTicket help des
 <br>
 <br>
 
-### 6.D ) Configure Agents (workers)
+<ins>Configuring Agents (workers) inside osTicket</ins>:
 
 - <ins>Permission Tab</ins>:
 
@@ -300,7 +289,7 @@ This lab focuses on the post-installation configuration of the osTicket help des
 <br>
 <br>
 
-### 6.E ) Configure Agents (workers)
+<ins>Configuring Agents (workers) inside osTicket</ins>:
 
 - <ins>Teams Tab</ins>:
 
@@ -314,11 +303,7 @@ This lab focuses on the post-installation configuration of the osTicket help des
 <br>
 <br>
 
-### 6.F ) Configure Agents (workers)
-
-<ins>Congrats!</ins>
-
-- *Go To The Next Step*
+<ins>Configuring Agents (workers) inside osTicket</ins>:
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/07a6fca4-1fb0-4008-9b57-ab4c22f239d1">
 
@@ -326,9 +311,9 @@ This lab focuses on the post-installation configuration of the osTicket help des
 <br>
 <br>
 
-### 7.A ) Configure Agents (workers)
+<ins>Configuring Agents (workers) inside osTicket</ins>:
 
-*(Go To: `Admin Portal` > `Agents` > `Agents` > `Add New Agent`)*
+- Go To: `Admin Portal` > `Agents` > `Agents` > `Add New Agent`
 
 - Name: `John Doe`
 
@@ -348,19 +333,15 @@ This lab focuses on the post-installation configuration of the osTicket help des
  
 - Go To: The `Access` Tab
 
-*(There are 3 pictures in this step 7.A)*
-
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/37900d59-37d0-47ea-a249-9ff56c9733f6">
-***
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/1311b464-9600-4446-9d6d-5867358d64f0">
-***
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/e86d88d4-dd4b-42f6-8f42-1cf3a4902227">
 
 <br>
 <br>
 <br>
 
-### 7.B ) Configure Agents (workers)
+<ins>Configuring Agents (workers) inside osTicket</ins>:
 
 - <ins>Primary Department Access</ins>:
 
@@ -380,11 +361,9 @@ This lab focuses on the post-installation configuration of the osTicket help des
 <br>
 <br>
 
-### 7.C ) Configure Agents (workers)
+You've Succuessfully configured your Agents (workers) inside osTicekt!
 
-<ins>Congrats!</ins>
-
-- *Go To: Part 2 - <ins>Agent Portal</ins> Configuration Steps*
+*Proceed to the Part 5: Configuring Users (Customers) inside osTicket*
 
 <img width="1511" alt="isolated" src="https://github.com/user-attachments/assets/53b687c8-f33b-4176-9c08-7c4329024dac">
 
@@ -398,7 +377,7 @@ This lab focuses on the post-installation configuration of the osTicket help des
 
 </summary>
 
-### 8.A ) Configure Users (Customers)
+### 8. ) Configuring Users (Customers) inside osTicket
 
 - Go To: `Agents` > `Users` > `User Directory` > `Add User `
 
@@ -407,20 +386,16 @@ This lab focuses on the post-installation configuration of the osTicket help des
   - Full Name: `Karen Karen`
  
   - Click: `Add User`
- 
-*(There are 3 pictures in this step 8.A)*
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/9cb4bebd-b0b8-4412-ba0b-a93722453ee2">
-***
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/3c2693bc-cf7a-42e3-a362-421bab2c6015">
-***
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/5df98d4f-9c94-4710-9e08-c2898a0c91ed">
 
 <br>
 <br>
 <br>  
 
-### 8.B ) Configure Users (Customers)
+<ins>Configuring Users (Customers) inside osTicket</ins>:
 
 - Go To: `Agents` > `Users` > `User Directory` > `Add User `
 
@@ -429,24 +404,18 @@ This lab focuses on the post-installation configuration of the osTicket help des
   - Full Name: `Ken Ken`
  
   - Click: `Add User`
- 
-*(There are 3 pictures in this step 8.B)*
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/d28ceaca-ad99-479d-aa21-cbc8d0b196c0">
-***
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/50b407b0-8928-4992-b5ab-8e43d207aa14">
-***
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/959587b2-3d6e-4ca0-b493-b31ae82d48c5">
 
 <br>
 <br>
 <br>
 
-### 8.C ) Configure Users (Customers)
+You've Succuessfully configured your Users (customers) inside osTicekt!
 
-<ins>Congrats!</ins>
-
-- *Continue To The Next Step*
+*Proceed to the Part 6: Configuring SLAs inside osTicket*
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/088d9037-d06e-4091-8326-53a1cebc676b">
 
@@ -460,7 +429,7 @@ This lab focuses on the post-installation configuration of the osTicket help des
 
 </summary>
 
-### 9.A ) Configure SLA
+### 9. ) Configuring SLAs inside osTicket
 
 - Go To: `Admin Panel` > `Manage` > `SLA` > `Add New SLA Plan `
 
@@ -476,7 +445,7 @@ This lab focuses on the post-installation configuration of the osTicket help des
 <br>
 <br>
 
-### 9.B ) Configure SLA
+<ins>Configuring SLAs inside osTicket</ins>:
 
 - Go To: `Admin Panel` > `Manage` > `SLA` > `Add New SLA Plan `
 
@@ -494,7 +463,7 @@ This lab focuses on the post-installation configuration of the osTicket help des
 <br>
 <br>
 
-### 9.C ) Configure SLA
+<ins>Configuring SLAs inside osTicket</ins>:
 
 - Go To: `Admin Panel` > `Manage` > `SLA` > `Add New SLA Plan `
 
@@ -512,7 +481,7 @@ This lab focuses on the post-installation configuration of the osTicket help des
 <br>
 <br>
 
-### 9.D ) Configure SLA
+<ins>Configuring SLAs inside osTicket</ins>:
 
 - Go To: `Admin Panel` > `Manage` > `SLA` > `Add New SLA Plan `
 
@@ -530,11 +499,9 @@ This lab focuses on the post-installation configuration of the osTicket help des
 <br>
 <br>
 
-### 9.E ) Configure SLA
+You've Succuessfully configured SLAs inside osTicekt!
 
-<ins>Congrats!</ins>
-
-- *Proceed To The Next Step*
+*Proceed to the Part 7: Configuring Help Topics inside osTicket*
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/cdbca621-8b4b-4105-ac2b-e10f85be37a3">
 
@@ -552,7 +519,7 @@ This lab focuses on the post-installation configuration of the osTicket help des
 
 </summary>
 
-### 10.A ) Configure Help Topics
+### 10. ) Configuring Help Topics inside osTicket
 
 - Go To: `Admin Panel` > `Manage` > `Add New Help Topics`
 
@@ -566,28 +533,22 @@ This lab focuses on the post-installation configuration of the osTicket help des
  
   - `Password Reset`
 
-*(There are 5 pictures in this step 10.A)*
-
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/7a4ee028-d064-44b1-bf3b-85f1df87c4e7">
-***
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/7c99fdf8-1359-4944-b584-251220693901">
-***
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/9cebecd8-b418-4a2d-a788-2d0dbef58b90">
-***
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/d7c0e6f1-c66e-40bd-aa18-dd27708b40ab">
-***
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/45483a06-5149-4918-bd4e-1719593dbac3">
 
 <br>
 <br>
 <br>
 
-### 10.B ) Congratulations! You configured osTicket!
+### Congratulations you officially finished setting up osTicket!
 
-- Click [here](https://github.com/vincentchachere/ticket-lifecycle) to move on to the final part of this tutorial!
+Now, it's time to build on this foundation by practicing the lifecycle of tickets from intake to resolution.
+
+- Click [here](https://github.com/vincentchachere/Ticket-Lifecycle) to proceed to the next lab and continue expanding your skills!
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/7f1f496f-6f42-49c5-a32d-5ae1a013664e">
-
-***
 
 ☎️ For any questions, or just to connect, you can message me at: www.linkedin.com/in/vincentchachere
