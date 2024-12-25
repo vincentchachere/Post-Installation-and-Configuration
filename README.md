@@ -140,7 +140,7 @@ This lab focuses on the post-installation configuration of the osTicket help des
 <br>
 <br>
 
-### You've Succuessfully configured Departments inside osTicekt!
+### You've Successfully configured Departments inside osTicekt!
 
 *Proceed to the Part 3: Configuring Teams inside osTicket*
 
@@ -196,7 +196,7 @@ This lab focuses on the post-installation configuration of the osTicket help des
 <br>
 <br>
 
-### You've Succuessfully configured Teams inside osTicket!
+### You've Successfully configured Teams inside osTicket!
 
 *Proceed to the final step within this part of the lab.*
 
@@ -406,7 +406,7 @@ This lab focuses on the post-installation configuration of the osTicket help des
 <br>
 <br>
 
-### You've Succuessfully configured your Agents (workers) inside osTicket!
+### You've Successfully configured your Agents (workers) inside osTicket!
 
 *Proceed to the Part 5: Configuring Users (Customers) inside osTicket*
 
@@ -494,7 +494,7 @@ You've officially configured your second Users!
 <br>
 <br>
 
-### You've Succuessfully configured your Users (customers) inside osTicekt!
+### You've Successfully configured your Users (customers) inside osTicekt!
 
 *Proceed to the Part 6: Configuring SLAs inside osTicket*
 
@@ -513,6 +513,8 @@ You've officially configured your second Users!
 ### 9. ) Configuring SLAs inside osTicket
 
 - Go To: `Admin Panel` > `Manage` > `SLA` > `Add New SLA Plan `
+
+*We will be creating the following Service Level Agreements:*
 
   - Create: `SEV-A (1 Hour: 24/7 )`
 
@@ -580,7 +582,7 @@ You've officially configured your second Users!
 <br>
 <br>
 
-You've Succuessfully configured SLAs inside osTicekt!
+### You've Successfully configured SLAs inside osTicekt!
 
 *Proceed to the Part 7: Configuring Help Topics inside osTicket*
 
@@ -604,7 +606,7 @@ You've Succuessfully configured SLAs inside osTicekt!
 
 - Go To: `Admin Panel` > `Manage` > `Add New Help Topics`
 
-- <ins>Make the following Help Topics</ins>:
+*We will be creating the following Help Topics:*
 
   - `Business Critical Outage`
  
@@ -614,10 +616,56 @@ You've Succuessfully configured SLAs inside osTicekt!
  
   - `Password Reset`
 
+*Notice the current Help Topics that are created.*
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/7a4ee028-d064-44b1-bf3b-85f1df87c4e7">
+
+<br>
+<br>
+<br>
+
+<ins>Configuring Help Topics inside osTicket<ins>:
+
+- Topic: `Business Critical Outage`
+
+- Click: `Add Topic`
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/7c99fdf8-1359-4944-b584-251220693901">
+
+<br>
+<br>
+<br>
+
+<ins>Configuring Help Topics inside osTicket<ins>:
+
+- Topic: `Equipment Request`
+
+- Click: `Add Topic`
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/9cebecd8-b418-4a2d-a788-2d0dbef58b90">
+
+<br>
+<br>
+<br>
+
+<ins>Configuring Help Topics inside osTicket<ins>:
+
+- Topic: `Personal Computer Issues`
+
+- Click: `Add Topic`
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/d7c0e6f1-c66e-40bd-aa18-dd27708b40ab">
+
+<br>
+<br>
+<br>
+
+<ins>Configuring Help Topics inside osTicket<ins>:
+
+- Topic: `Password Reset`
+
+- Click: `Add Topic`
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/45483a06-5149-4918-bd4e-1719593dbac3">
 
 <br>
