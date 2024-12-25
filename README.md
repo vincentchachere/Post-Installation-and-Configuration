@@ -49,7 +49,7 @@ This lab focuses on the post-installation configuration of the osTicket help des
 
 - Username: *Use the credentials you made in Part E: Step 21 of the* [Installation Tutorial](https://github.com/vincentchachere/osTicket-Prerequisites)
 
-- Password: *Use the credentials you made in Part E: Step 21 of the* [Installation Tutorial](https://github.com/vincentchachere/osTicket-Prerequisites)`
+- Password: *Use the credentials you made in Part E: Step 21 of the* [Installation Tutorial](https://github.com/vincentchachere/osTicket-Prerequisites)
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/bf01b1e9-4eae-4941-95c7-cfe2f338b89f">
 
@@ -57,21 +57,13 @@ This lab focuses on the post-installation configuration of the osTicket help des
 <br>
 <br>
 
-### 2. ) Configure Roles
+### 2. ) Configure Roles inside osTicket
 
   - Go To: `Admin Panel` > `Agents` > `Roles`
 
   - Click: `Add New Roles`
 
-*(There are 2 pictures in this step 2.A)*
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/4e413d8b-26f2-48a4-b2b8-156c52c19c6e">
-
-<br>
-<br>
-<br>
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/3d0f4f65-9735-4d68-b54c-6e7594257049">
+<img width="1511" alt="isolated" src="https://github.com/user-attachments/assets/8b04144f-9447-488f-987f-3ba0962436f8">
 
 <br>
 <br>
@@ -79,26 +71,26 @@ This lab focuses on the post-installation configuration of the osTicket help des
 
 <ins>Configuring Roles within osTicket</ins>:
 
-- Name: `Supreme Admin`
+- Name: `Supreme Admin` then..
 
-- Click: `Permissions`
-
-  - Tickets: `Check all boxes`
-
-  - Tasks: `Check all boxes`
-
-  - Knowledages: `Check all boxes`
-
-  - Click: `Add Role`
-
-*(There are 4 pictures in this step 2.B)*
+- Go to: `Permissions` Tab
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/0cae777b-33d2-4766-af3f-6391f201694f">
-***
+
+<ins>Configuring Roles within osTicket</ins>:
+
+*Within the Permissions Tab:*
+
+- Tickets Tab: `Check all boxes`
+
+- Tasks Tab: `Check all boxes`
+
+- Knowledages Tab: `Check all boxes`
+
+- Select: `Add Role`
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/911a723e-13e6-48f1-86ad-922bcf5d1e9c">
-***
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/95cfc187-153c-4c8a-a957-45da2a2b4bee">
-***
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/f99c7051-776f-431d-bb26-5a883ffaed9d">
 
 <br>
