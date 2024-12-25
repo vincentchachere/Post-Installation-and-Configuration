@@ -3,7 +3,8 @@
 </p>
 
 # osTicket - Post-Install Configuration
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+
+This lab focuses on the post-installation configuration of the osTicket help desk system, including setting up roles, departments, teams, agents, users, and Service Level Agreements (SLAs) in a Microsoft Azure virtualized environment.
 
 ## Environments and Technologies Used
 
@@ -23,20 +24,18 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ## Resources 
 
-- <ins>For better understanding of each go to</ins>:
+<ins>For better understanding of each go to</ins>:
 
-  - [Roles](https://docs.osticket.com/en/latest/Admin/Agents/Roles.html)
-  - [Departments](https://docs.osticket.com/en/latest/Admin/Agents/Departments.html)
-  - [Teams](https://docs.osticket.com/en/latest/Admin/Agents/Teams.html) 
-  - [Agents](https://docs.osticket.com/en/latest/Admin/Agents/Agents.html)
-  - [Users](https://docs.osticket.com/en/latest/Agent/Users/User%20Directory.html)
-  - [Service Level Agreement (SLA)](https://docs.osticket.com/en/latest/Admin/Manage/SLA%20Plans.html)
+- [Roles](https://docs.osticket.com/en/latest/Admin/Agents/Roles.html)
+- [Departments](https://docs.osticket.com/en/latest/Admin/Agents/Departments.html)
+- [Teams](https://docs.osticket.com/en/latest/Admin/Agents/Teams.html) 
+- [Agents](https://docs.osticket.com/en/latest/Admin/Agents/Agents.html)
+- [Users](https://docs.osticket.com/en/latest/Agent/Users/User%20Directory.html)
+- [Service Level Agreement (SLA)](https://docs.osticket.com/en/latest/Admin/Manage/SLA%20Plans.html)
 
-- <ins>For the prerequisites to this lab, please refer to my other lab</ins>:
+<ins>For the prerequisite setup and initial configuration required for this lab, please refer to my previous lab.</ins>:
 
-  - [osTicket - Ticket Lifecycle Examples](https://github.com/vincentchachere/osticket-prereqs) ⬅️ *Click Here*
-
-***
+  - [osTicket - Ticket Lifecycle Examples](https://github.com/vincentchachere/osTicket-Prerequisites)
 
 <details>
 
