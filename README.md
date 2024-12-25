@@ -47,9 +47,9 @@ This lab focuses on the post-installation configuration of the osTicket help des
 
 ### 1. ) Login to osTicket
 
-- Username: `Use the credentials you made in Part E: Step 21 during the [Installation Tutorial](https://github.com/vincentchachere/osTicket-Prerequisites)`
+- Username: *Use the credentials you made in Part E: Step 21 of the* [Installation Tutorial](https://github.com/vincentchachere/osTicket-Prerequisites)
 
-- Password: `Use the credentials you made in Part E: Step 21 during the [Installation Tutorial](https://github.com/vincentchachere/osTicket-Prerequisites)`
+- Password: *Use the credentials you made in Part E: Step 21 of the* [Installation Tutorial](https://github.com/vincentchachere/osTicket-Prerequisites)`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/bf01b1e9-4eae-4941-95c7-cfe2f338b89f">
 
