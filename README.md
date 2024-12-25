@@ -428,6 +428,10 @@ This lab focuses on the post-installation configuration of the osTicket help des
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/9cb4bebd-b0b8-4412-ba0b-a93722453ee2">
 
+<br>
+<br>
+<br>
+
 <ins>Configuring Users (Customers) inside osTicket</ins>:
 
 - Email Address: `Karen@osticket.com`
@@ -442,7 +446,9 @@ This lab focuses on the post-installation configuration of the osTicket help des
 <br>
 <br> 
 
-### You've configured your first User (customer) inside osTicket!
+<ins>Configuring Users (Customers) inside osTicket</ins>:
+
+You've configured your first User inside osTicket!
 
 *Continue creating your second User in the next step*
 
@@ -478,7 +484,7 @@ This lab focuses on the post-installation configuration of the osTicket help des
 
 <ins>Configuring Users (Customers) inside osTicket</ins>:
 
-You've officially created your second Users!
+You've officially configured your second Users!
 
 *Go back into the User Directory to oberserve the Users you've created.*
 
