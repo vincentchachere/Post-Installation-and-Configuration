@@ -196,7 +196,7 @@ This lab focuses on the post-installation configuration of the osTicket help des
 <br>
 <br>
 
-You've Succuessfully configured Teams inside osTicket!
+### You've Succuessfully configured Teams inside osTicket!
 
 *Proceed to the final step within this part of the lab.*
 
@@ -248,18 +248,32 @@ You've Succuessfully configured Teams inside osTicket!
 
 - Click: `Set Password`
 
-  - Uncheck: `Send the agent a password reset email`
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/c3b28c22-2ee1-440a-bd86-34b803006700">
 
-  - Password: *`Your osTicket Login Password`*
+<br>
+<br>
+<br>
+
+<ins>Configuring Agents (workers) inside osTicket</ins>:
+
+- Uncheck: `Send the agent a password reset email`
+
+- Password: `Your osTicket Login Password`
  
-  - Uncheck: `Require password change at next login`
+- Uncheck: `Require password change at next login`
  
-  - Click: `Set`
- 
+- Click: `Set`
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/c6044063-1b89-4c88-bbe6-d5223a7adf43">
+
+<br>
+<br>
+<br>
+
+<ins>Configuring Agents (workers) inside osTicket</ins>:
+
 - Go To: The `Access` Tab
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/c3b28c22-2ee1-440a-bd86-34b803006700">
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/c6044063-1b89-4c88-bbe6-d5223a7adf43">
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/127f7308-70e0-40bb-8c46-3966f12af183">
 
 <br>
@@ -290,11 +304,11 @@ You've Succuessfully configured Teams inside osTicket!
 
 <ins>Configuring Agents (workers) inside osTicket</ins>:
 
-- <ins>Permission Tab</ins>:
+*Within the Permissions Tab*
 
-  - Check: `All Boxes`
+- Check: `All Boxes`
 
-  - Go To: The `Teams` Tab
+- Go To: The `Teams` Tab
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/100144d4-92e7-4fa5-b389-de0bc6a8361b">
 
@@ -304,11 +318,11 @@ You've Succuessfully configured Teams inside osTicket!
 
 <ins>Configuring Agents (workers) inside osTicket</ins>:
 
-- <ins>Teams Tab</ins>:
+*Within the Teams Tab*
 
-  - Assigned Teams: `Level II Support`
+- Assigned Teams: `Level II Support`
 
-  - Click: `Create`
+- Click: `Create`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/b5dfcc2b-ab55-4d4f-aecd-999584e2f5c9">
 
@@ -316,7 +330,9 @@ You've Succuessfully configured Teams inside osTicket!
 <br>
 <br>
 
-<ins>Configuring Agents (workers) inside osTicket</ins>:
+### You've configured your first Agents (workers) inside osTicekt!
+
+*Continue creating your second Agent in the next step*
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/07a6fca4-1fb0-4008-9b57-ab4c22f239d1">
 
@@ -336,19 +352,33 @@ You've Succuessfully configured Teams inside osTicket!
 
 - Click: `Set Password`
 
-  - Uncheck: `Send the agent a password reset email`
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/37900d59-37d0-47ea-a249-9ff56c9733f6">
 
-  - Password: *`Your osTicket Login Password`*
+<br>
+<br>
+<br>
+
+<ins>Configuring Agents (workers) inside osTicket</ins>:
+
+- Uncheck: `Send the agent a password reset email`
+
+- Password: `Your osTicket Login Password`
  
-  - Uncheck: `Require password change at next login`
+- Uncheck: `Require password change at next login`
  
-  - Click: `Set`
- 
+- Click: `Set`
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/1311b464-9600-4446-9d6d-5867358d64f0">
+
+<br>
+<br>
+<br>
+
+<ins>Configuring Agents (workers) inside osTicket</ins>:
+
 - Go To: The `Access` Tab
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/37900d59-37d0-47ea-a249-9ff56c9733f6">
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/1311b464-9600-4446-9d6d-5867358d64f0">
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/e86d88d4-dd4b-42f6-8f42-1cf3a4902227">
+<img width="1511" alt="isolated" src="https://github.com/user-attachments/assets/67d28066-455e-45a1-8525-c474fcb2dd18">
 
 <br>
 <br>
@@ -366,7 +396,9 @@ You've Succuessfully configured Teams inside osTicket!
 
   - Check: `All Boxes`
  
-- *Leave the Teams part blank*
+- Select: `Create`
+ 
+*Leave the Teams part blank*
 
 <img width="1511" alt="isolated" src="https://github.com/user-attachments/assets/6a7ca361-2e5b-482f-b2e6-d5570cb82cc7">
 
@@ -374,7 +406,7 @@ You've Succuessfully configured Teams inside osTicket!
 <br>
 <br>
 
-You've Succuessfully configured your Agents (workers) inside osTicekt!
+### You've Succuessfully configured your Agents (workers) inside osTicket!
 
 *Proceed to the Part 5: Configuring Users (Customers) inside osTicket*
 
@@ -394,14 +426,26 @@ You've Succuessfully configured your Agents (workers) inside osTicekt!
 
 - Go To: `Agents` > `Users` > `User Directory` > `Add User `
 
-  - Email Address: `Karen@osticket.com`
- 
-  - Full Name: `Karen Karen`
- 
-  - Click: `Add User`
-
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/9cb4bebd-b0b8-4412-ba0b-a93722453ee2">
+
+<ins>Configuring Users (Customers) inside osTicket</ins>:
+
+- Email Address: `Karen@osticket.com`
+ 
+- Full Name: `Karen Karen`
+ 
+- Click: `Add User`
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/3c2693bc-cf7a-42e3-a362-421bab2c6015">
+
+<br>
+<br>
+<br> 
+
+### You've configured your first User (customer) inside osTicket!
+
+*Continue creating your second User in the next step*
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/5df98d4f-9c94-4710-9e08-c2898a0c91ed">
 
 <br>
@@ -412,21 +456,39 @@ You've Succuessfully configured your Agents (workers) inside osTicekt!
 
 - Go To: `Agents` > `Users` > `User Directory` > `Add User `
 
-  - Email Address: `Ken@osticket.com`
- 
-  - Full Name: `Ken Ken`
- 
-  - Click: `Add User`
-
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/d28ceaca-ad99-479d-aa21-cbc8d0b196c0">
+
+<br>
+<br>
+<br>
+
+<ins>Configuring Users (Customers) inside osTicket</ins>:
+
+- Email Address: `Ken@osticket.com`
+ 
+- Full Name: `Ken Ken`
+ 
+- Click: `Add User`
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/50b407b0-8928-4992-b5ab-8e43d207aa14">
+
+<br>
+<br>
+<br>
+
+<ins>Configuring Users (Customers) inside osTicket</ins>:
+
+You've officially created your second Users!
+
+*Go back into the User Directory to oberserve the Users you've created.*
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/959587b2-3d6e-4ca0-b493-b31ae82d48c5">
 
 <br>
 <br>
 <br>
 
-You've Succuessfully configured your Users (customers) inside osTicekt!
+### You've Succuessfully configured your Users (customers) inside osTicekt!
 
 *Proceed to the Part 6: Configuring SLAs inside osTicket*
 
