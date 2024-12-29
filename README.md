@@ -33,9 +33,9 @@ This lab focuses on the post-installation configuration of the osTicket help des
 - [Users](https://docs.osticket.com/en/latest/Agent/Users/User%20Directory.html)
 - [Service Level Agreement (SLA)](https://docs.osticket.com/en/latest/Admin/Manage/SLA%20Plans.html)
 
-<ins>For the prerequisite setup and initial configuration required for this lab, please refer to my previous lab.</ins>:
+<ins>For the prerequisite setup and initial configuration required for this lab, refer to my previous lab</ins>:
 
-  - [osTicket - Ticket Lifecycle Examples](https://github.com/vincentchachere/osTicket-Prerequisites)
+  - [osTicket - Prerequisites](https://github.com/vincentchachere/osTicket-Prerequisites)
 
 <details>
 
@@ -672,12 +672,20 @@ You've officially configured your second Users!
 <br>
 <br>
 
-### Congratulations you officially finished setting up osTicket!
+<h2 align="center">Congratulations! You finished setting up osTicket!</h2>
 
-Now, it's time to build on this foundation by practicing the lifecycle of tickets from intake to resolution.
-
-- Click [here](https://github.com/vincentchachere/Ticket-Lifecycle) to proceed to the next lab and continue expanding your skills!
+Now, it's time to build on this foundation by [practicing the lifecycle of tickets](https://github.com/vincentchachere/Ticket-Lifecycle) from intake to resolution.
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/post-install-config/assets/161680745/7f1f496f-6f42-49c5-a32d-5ae1a013664e">
 
-☎️ For any questions, or just to connect, you can message me at: www.linkedin.com/in/vincentchachere
+</details>
+
+<h2 align="center">Final Thoughts</h2>
+
+This lab provided hands-on experience in configuring the osTicket help desk ticketing system after installation, covering essential tasks such as setting up roles, departments, teams, agents, users, and Service Level Agreements (SLAs). The lab was conducted in a Microsoft Azure virtualized environment, offering practical skills for managing and optimizing help desk operations in a cloud-based infrastructure.
+
+To continue building on this lab, check out the [next tutorial](https://github.com/vincentchachere/Ticket-Lifecycle) within this series, where we’ll practice working tickets from intake to relsoution.
+
+Thank you for following along with this project. Your time and effort in learning and implementing these concepts are greatly appreciated.
+
+☎️ For questions or to connect you can reach me at: www.linkedin.com/in/vincentchachere
