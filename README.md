@@ -4,7 +4,7 @@
 
 # osTicket - Post-Install Configuration
 
-This lab focuses on the post-installation configuration of the osTicket help desk system, including setting up roles, departments, teams, agents, users, and Service Level Agreements (SLAs) in a Microsoft Azure virtualized environment.
+This lab guides users through the post-installation configuration of the osTicket help desk system within a Microsoft Azure virtualized environment. Participants will configure roles, departments, teams, agents, users, and Service Level Agreements (SLAs) to tailor the system for efficient help desk management.
 
 ## Environments and Technologies Used
 
