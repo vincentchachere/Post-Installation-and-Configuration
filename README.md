@@ -140,7 +140,7 @@ This lab guides users through the post-installation configuration of the osTicke
 <br>
 <br>
 
-### You've Successfully configured Departments inside osTicekt!
+### You've Successfully configured Departments inside osTicket!
 
 *Proceed to the Part 3: Configuring Teams inside osTicket*
 
@@ -494,7 +494,7 @@ You've officially configured your second Users!
 <br>
 <br>
 
-### You've Successfully configured your Users (customers) inside osTicekt!
+### You've Successfully configured your Users (customers) inside osTicket!
 
 *Proceed to the Part 6: Configuring SLAs inside osTicket*
 
@@ -582,7 +582,7 @@ You've officially configured your second Users!
 <br>
 <br>
 
-### You've Successfully configured SLAs inside osTicekt!
+### You've Successfully configured SLAs inside osTicket!
 
 *Proceed to the Part 7: Configuring Help Topics inside osTicket*
 
