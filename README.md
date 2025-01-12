@@ -32,6 +32,7 @@ This lab guides users through the post-installation configuration of the osTicke
 - [Agents](https://docs.osticket.com/en/latest/Admin/Agents/Agents.html)
 - [Users](https://docs.osticket.com/en/latest/Agent/Users/User%20Directory.html)
 - [Service Level Agreement (SLA)](https://docs.osticket.com/en/latest/Admin/Manage/SLA%20Plans.html)
+- [Help Topics](https://docs.osticket.com/en/latest/Admin/Manage/Help%20Topic.html)
 
 <ins>For the prerequisite setup and initial configuration required for this lab, refer to my previous lab</ins>:
 
